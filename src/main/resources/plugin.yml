@@ -1,0 +1,5 @@
+name: Leagues
+version: '${project.version}'
+main: com.hycordia.leagues.Leagues
+api-version: 1.19
+authors: [ Danny ]
